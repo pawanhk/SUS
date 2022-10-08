@@ -5,5 +5,8 @@ public class brain {
         //collector col = new collector();
         //col.enterData();
 
+        // feed directions/instructions
+        feeder feed = new feeder();
+        feed.setDirections();
     }
 }

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0210263-db31-4d45-b5bd-d6fb3a4e587e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SYLVY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collector.java" afterDir="false" />
+    <list default="true" id="a0210263-db31-4d45-b5bd-d6fb3a4e587e" name="Changes" comment="Added new files">
+      <change afterPath="$PROJECT_DIR$/src/feeder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cats/greetings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cats/greetings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/brain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inquire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inquire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +52,23 @@
       <option name="presentableId" value="Default" />
       <updated>1665094288190</updated>
       <workItem from="1665094289623" duration="6455000" />
-      <workItem from="1665266832374" duration="2762000" />
+      <workItem from="1665266832374" duration="5773000" />
     </task>
+    <task id="LOCAL-00001" summary="dont know">
+      <created>1665269757952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665269757952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added new files">
+      <created>1665269846630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665269846630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +84,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dont know" />
+    <MESSAGE value="Added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
   </component>
 </project>
