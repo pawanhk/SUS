@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0210263-db31-4d45-b5bd-d6fb3a4e587e" name="Changes" comment="Added new files">
-      <change afterPath="$PROJECT_DIR$/src/feeder.java" afterDir="false" />
+    <list default="true" id="a0210263-db31-4d45-b5bd-d6fb3a4e587e" name="Changes" comment="feed data">
+      <change afterPath="$PROJECT_DIR$/cats/connectors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cats/definitions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cats/logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cats/math.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cats/verbs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/page.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getMeaning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ident_profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/identity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/langproc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saveMeanings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cats/greetings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cats/greetings.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/brain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inquire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inquire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feeder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/feeder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +37,26 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FmPSTcpZNkGyHGtZmOV2wpUuDX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pawan/Documents/SUS/SYLVY&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +66,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665094288190</updated>
       <workItem from="1665094289623" duration="6455000" />
-      <workItem from="1665266832374" duration="5773000" />
+      <workItem from="1665266832374" duration="7367000" />
+      <workItem from="1665297133014" duration="2178000" />
+      <workItem from="1665302982946" duration="857000" />
+      <workItem from="1665303857790" duration="120000" />
+      <workItem from="1665344250141" duration="594000" />
+      <workItem from="1665348135049" duration="769000" />
+      <workItem from="1665439623456" duration="6857000" />
+      <workItem from="1665493718718" duration="1037000" />
+      <workItem from="1665874475518" duration="882000" />
+      <workItem from="1666506173215" duration="27000" />
+      <workItem from="1666654898960" duration="1908000" />
+      <workItem from="1666664029363" duration="11000" />
+      <workItem from="1667254019221" duration="6854000" />
+      <workItem from="1667776204231" duration="8451000" />
+      <workItem from="1667799536769" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="dont know">
       <created>1665269757952</created>
@@ -68,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665269846630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feed data">
+      <created>1665272796678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665272796678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,8 +121,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dont know" />
     <MESSAGE value="Added new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
+    <MESSAGE value="feed data" />
+    <option name="LAST_COMMIT_MESSAGE" value="feed data" />
   </component>
 </project>

@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.Scanner;
 // correct way to set directions
 // #this is how/ question/ anything@answer and everything else
-
 public class feeder {
     private String ask;
     private String question;
